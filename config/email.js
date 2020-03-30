@@ -1,0 +1,12 @@
+module.exports={
+    user:'13a0377b01e573',
+    pass:'0f7e2cbaadc636',
+    host:'smtp.mailtrap.io',
+    port:'2525'
+    /*
+    user:'genericsmtp91@gmail.com',
+    pass:'Appgmail2491',
+    host:'smtp.gmail.com',
+    port:'587'
+    */
+}
