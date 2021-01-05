@@ -14,7 +14,7 @@
   "dependencies": {
     "acorn": "^7.1.1",
     "acorn-globals": "^6.0.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bcrypt-nodejs": "0.0.3",
     "concurrently": "^5.1.0",
     "connect-flash": "^0.1.1",
